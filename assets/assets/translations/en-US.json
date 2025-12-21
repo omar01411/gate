@@ -1,5 +1,5 @@
 {
-  "sila-admin-portal": "Gate Admin",
+  "sila-admin-portal": "GLC Souq",
   "welcome-back": "Welcome back!",
   "sign-in": "Sign In",
   "enter-your-credentials-to-access-the-admin-panel": "Enter your credentials to access the admin panel",
@@ -340,5 +340,7 @@
   "payment-amount": "Payment Amount",
   "note": "Note",
   "settings": "Settings",
-  "language": "Language"
+  "language": "Language",
+  "invalid_number_format": "Invalid number format",
+  "invalid_integer_format": "Invalid integer format"
 }

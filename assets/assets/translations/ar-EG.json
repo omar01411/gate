@@ -1,5 +1,5 @@
 {
-  "sila-admin-portal": "لوحة تحكم Gate",
+  "sila-admin-portal": "سوق GLC",
   "welcome-back": "مرحبًا بعودتك!",
   "sign-in": "تسجيل الدخول",
   "enter-your-credentials-to-access-the-admin-panel": "أدخل بيانات الاعتماد الخاصة بك للوصول إلى لوحة الإدارة",
@@ -317,7 +317,7 @@
   "enter": "أدخل",
   "please-select-customer-before-checkout": "يرجى اختيار عميل قبل إتمام الطلب",
   "order-submitted-successfully": "تم تقديم الطلب بنجاح",
-  "order-updated-successfully" : "تم تحديث الطلب بنجاح",
+  "order-updated-successfully": "تم تحديث الطلب بنجاح",
   "shipping_and_warehouses": "الشحن والمخازن",
   "car_type": "نوع السيارة",
   "payment_method": "طريقة الدفع",
@@ -342,5 +342,7 @@
   "payment-amount": "مبلغ الدفع",
   "note": "ملحوظة",
   "settings": "الإعدادات",
-  "language": "اللغة"
+  "language": "اللغة",
+  "invalid_number_format": "تنسيق رقم غير صالح",
+  "invalid_integer_format": "تنسيق عدد صحيح غير صالح"
 }
