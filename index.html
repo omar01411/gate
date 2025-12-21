@@ -31,8 +31,23 @@
 
     <title>final_gate</title>
     <link rel="manifest" href="manifest.json" />
+    <style>
+      body {
+        overscroll-behavior-x: none;
+      }
+
+      :root {
+        overscroll-behavior: none;
+        overflow-x: hidden;
+      }
+    </style>
   </head>
   <body>
+    <script>
+      document.addEventListener("contextmenu", function (e) {
+        e.preventDefault();
+      });
+    </script>
     <script src="flutter_bootstrap.js" async></script>
   </body>
 </html>

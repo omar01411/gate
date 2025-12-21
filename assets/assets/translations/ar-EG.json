@@ -194,6 +194,11 @@
   "error-occurred": "حدث خطأ",
   "products": "المنتجات",
   "product": "منتج",
+  "payments": "المدفوعات",
+  "payment": "دفع",
+  "payment-description": "وصف الدفع",
+  "payment-image": "صورة الدفع",
+  "payment-deleted": "تم حذف الدفع بنجاح",
   "product-description": "وصف المنتج",
   "product-deleted": "تم حذف المنتج بنجاح",
   "last-maint-by": "آخر صيانة بواسطة",
@@ -274,6 +279,7 @@
   "kg": "كجم",
   "egp": "جنيه",
   "complete-order": "إتمام الطلب",
+  "update-order": "تحديث الطلب",
   "delete-product": "حذف المنتج",
   "do-you-want-to-delete-from-cart": "هل تريد حذف \"{product}\" من السلة؟",
   "package": "عبوة",
@@ -311,6 +317,7 @@
   "enter": "أدخل",
   "please-select-customer-before-checkout": "يرجى اختيار عميل قبل إتمام الطلب",
   "order-submitted-successfully": "تم تقديم الطلب بنجاح",
+  "order-updated-successfully" : "تم تحديث الطلب بنجاح",
   "shipping_and_warehouses": "الشحن والمخازن",
   "car_type": "نوع السيارة",
   "payment_method": "طريقة الدفع",
@@ -331,5 +338,9 @@
   "customer-number": "رقم العميل",
   "customer-extra-name": "اسم إضافي للعميل",
   "customer-sales-person": "مندوب مبيعات العميل",
-  "orders": "الطلبات"
+  "orders": "الطلبات",
+  "payment-amount": "مبلغ الدفع",
+  "note": "ملحوظة",
+  "settings": "الإعدادات",
+  "language": "اللغة"
 }

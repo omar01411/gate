@@ -193,6 +193,11 @@
   "error-occurred": "An error occurred",
   "products": "Products",
   "product": "Product",
+  "payments": "Payments",
+  "payment": "Payment",
+  "payment-description": "Payment Description",
+  "payment-image": "Payment Image",
+  "payment-deleted": "Payment deleted successfully",
   "product-description": "Product Description",
   "product-deleted": "Product deleted successfully",
   "last-maint-by": "Last Maintained By",
@@ -274,6 +279,7 @@
   "kg": "Kg",
   "egp": "EGP",
   "complete-order": "Complete Order",
+  "update-order": "Update Order",
   "delete-product": "Delete Product",
   "do-you-want-to-delete-from-cart": "Do you want to delete \"{product}\" from the cart?",
   "package": "Package",
@@ -309,6 +315,7 @@
   "enter": "Enter",
   "please-select-customer-before-checkout": "Please select a customer before checkout",
   "order-submitted-successfully": "Order submitted successfully",
+  "order-updated-successfully": "Order updated successfully",
   "shipping_and_warehouses": "Shipping and Warehouses",
   "car_type": "Car Type",
   "payment_method": "Payment Method",
@@ -329,5 +336,9 @@
   "customer-number": "Customer Number",
   "customer-extra-name": "Customer Extra Name",
   "customer-sales-person": "Customer Sales Person",
-  "orders": "Orders"
+  "orders": "Orders",
+  "payment-amount": "Payment Amount",
+  "note": "Note",
+  "settings": "Settings",
+  "language": "Language"
 }
