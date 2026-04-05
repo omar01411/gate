@@ -398,5 +398,10 @@
   "project-name": "Project Name",
   "add_new_customer": "New Customer",
   "customer-type": "Customer Type",
-  "department": "Department"
+  "department": "Department",
+  "template-name": "Template Name",
+  "enter-template-name": "Enter template name",
+  "template-orders": "Order Templates",
+  "skip-customer-selection": "Skip customer selection",
+  "rename": "Rename"
 }

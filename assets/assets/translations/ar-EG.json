@@ -400,5 +400,10 @@
   "project-name": "اسم المشروع",
   "add_new_customer": "عميل جديد",
   "customer-type": "نوع العميل",
-  "department": "القسم"
+  "department": "القسم",
+  "template-name": "اسم النموذج",
+  "enter-template-name": "أدخل اسم النموذج",
+  "template-orders": "نماذج الطلبات",
+  "skip-customer-selection": "تخطي اختيار العميل",
+  "rename": "إعادة تسمية"
 }
