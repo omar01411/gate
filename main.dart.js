@@ -79697,7 +79697,7 @@ var $async$A9=A.p(function(a,b){if(a===1){p.push(b)
 s=q}for(;;)switch(s){case 0:o.bH(o.c.b2k(!0))
 q=3
 n=$.n3().eV(0,"username")
-m=A.ah(["Operation","Get Customer Masters","User",n],t.N,t.z)
+m=A.ah(["Operation","Get Customer Master","User",n],t.N,t.z)
 s=6
 return A.l(o.x.Hd(m),$async$A9)
 case 6:l=b
@@ -82706,7 +82706,7 @@ return A.t($async$EE,r)},
 Hc(){var s=0,r=A.u(t.zf),q,p=this
 var $async$Hc=A.p(function(a,b){if(a===1)return A.q(b,r)
 for(;;)switch(s){case 0:s=3
-return A.l(p.y.F_(A.ah(["operation","Get Customer Masters","User",$.fy],t.N,t.z)),$async$Hc)
+return A.l(p.y.F_(A.ah(["operation","Get Customer Master","User",$.fy],t.N,t.z)),$async$Hc)
 case 3:q=p.Q=b
 s=1
 break
