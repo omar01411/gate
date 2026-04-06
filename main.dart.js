@@ -79113,7 +79113,7 @@ var $async$F_=A.p(function(b,c){if(b===1)return A.q(c,r)
 for(;;)switch(s){case 0:m=t.z
 k=J
 s=3
-return A.l(p.a.l4($.k4,A.kX(a),A.jE(A.ah(["Sp_Name","APIControlPanelOperation"],t.N,m)),m),$async$F_)
+return A.l(p.a.l4($.k4,A.kX(a),A.jE(A.ah(["Sp_Name","APIGateOperation"],t.N,m)),m),$async$F_)
 case 3:l=k.a7(c.a,"List0")
 if(l==null){q=A.b([],t.zk)
 s=1
