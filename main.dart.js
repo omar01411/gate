@@ -76451,7 +76451,7 @@ rq(a,b){return this.bdu(a,b)},
 bdu(a,b){var s=0,r=A.u(t.H),q=this,p,o,n,m,l
 var $async$rq=A.p(function(c,d){if(c===1)return A.q(d,r)
 for(;;)switch(s){case 0:p=$.n3().eV(0,"username")
-o=a?"Save Favourite":"Delete Favourite"
+o=a?"Add Item Fav":"Remove Item Fav"
 n=t.N
 m=t.z
 l=A.ah(["Operation",o,"User",p,"LineData",B.e.j(b)],n,m)
