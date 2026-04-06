@@ -419,5 +419,8 @@
   "sales-person": "Sales Person",
   "payment-term": "Payment Term",
   "truck-id": "Truck ID",
-  "ship-to-id": "Ship To ID"
+  "ship-to-id": "Ship To ID",
+  "total-amount": "Total Amount",
+  "payment-code": "Payment Code",
+  "term-description": "Term Description"
 }

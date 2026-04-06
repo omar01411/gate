@@ -421,5 +421,8 @@
   "sales-person": "مندوب المبيعات",
   "payment-term": "شروط الدفع",
   "truck-id": "رقم الشاحنة",
-  "ship-to-id": "رقم عنوان الشحن"
+  "ship-to-id": "رقم عنوان الشحن",
+  "total-amount": "إجمالي المبلغ",
+  "payment-code": "كود الدفع",
+  "term-description": "وصف الشروط"
 }
