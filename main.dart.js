@@ -13366,11 +13366,9 @@ azM:function azM(){},
 azN:function azN(){},
 azO:function azO(){},
 azP:function azP(){},
-l6:function l6(a,b,c,d){var _=this
-_.a=a
-_.b=b
-_.c=c
-_.d=d},
+l6:function l6(a,b,c){this.a=a
+this.b=b
+this.c=c},
 OK:function OK(a,b,c,d){var _=this
 _.a=a
 _.b=b
@@ -79216,7 +79214,7 @@ case 1:return A.r(q,r)}})
 return A.t($async$HV,r)}}
 A.azM.prototype={
 $1(a){var s=J.at(a)
-return new A.l6(s.h(a,"CustomerNo"),s.h(a,"CustomerExtraName"),s.h(a,"CustomerSalesPerson"),s.h(a,"SalesName"))},
+return new A.l6(s.h(a,"customerNo"),s.h(a,"CustomerExtraName"),s.h(a,"CustomerSalesPerson"))},
 $S:432}
 A.azN.prototype={
 $1(a){var s=J.at(a)
@@ -79230,10 +79228,8 @@ A.azP.prototype={
 $1(a){return A.bCH(a)},
 $S:435}
 A.l6.prototype={
-d2(){var s=this
-return A.ah(["CustomerNo",s.a,"CustomerExtraName",s.b,"CustomerSalesPerson",s.c,"SalesName",s.d],t.N,t.z)},
-ghC(){var s=this
-return[s.a,s.b,s.c,s.d]}}
+d2(){return A.ah(["customerNo",this.a,"CustomerExtraName",this.b,"CustomerSalesPerson",this.c],t.N,t.z)},
+ghC(){return[this.a,this.b,this.c]}}
 A.OK.prototype={
 d2(){var s=this,r=s.d,q=A.R(r).i("a6<1,ap<j,@>>"),p=A.W(new A.a6(r,new A.aR8(),q),q.i("ao.E"))
 return A.ah(["Operation",s.a,"OrderNo",s.b,"User",s.c,"LineData",B.b4.qR(p,null)],t.N,t.z)},
