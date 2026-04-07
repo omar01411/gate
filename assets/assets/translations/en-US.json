@@ -422,5 +422,9 @@
   "ship-to-id": "Ship To ID",
   "total-amount": "Total Amount",
   "payment-code": "Payment Code",
-  "term-description": "Term Description"
+  "term-description": "Term Description",
+  "update-echo-order": "Update Echo Order",
+  "echo-order-updated-successfully": "Echo order updated successfully",
+  "echo-order-update-failed": "Echo order update failed",
+  "back-to-customer": "Back to Customer"
 }

@@ -424,5 +424,9 @@
   "ship-to-id": "رقم عنوان الشحن",
   "total-amount": "إجمالي المبلغ",
   "payment-code": "كود الدفع",
-  "term-description": "وصف الشروط"
+  "term-description": "وصف الشروط",
+  "update-echo-order": "تحديث طلب إيكو",
+  "echo-order-updated-successfully": "تم تحديث طلب إيكو بنجاح",
+  "echo-order-update-failed": "فشل تحديث طلب إيكو",
+  "back-to-customer": "إرجاع إلى العميل"
 }
