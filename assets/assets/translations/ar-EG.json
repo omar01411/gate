@@ -429,5 +429,9 @@
   "echo-order-updated-successfully": "تم تحديث طلب إيكو بنجاح",
   "echo-order-update-failed": "فشل تحديث طلب إيكو",
   "back-to-customer": "إرجاع إلى العميل",
-  "order-date": "تاريخ الطلب"
+  "back-echo-order-to-customer": "إرجاع طلب إيكو إلى العميل",
+  "back-echo-order-success": "تم إرجاع طلب إيكو إلى العميل بنجاح",
+  "back-echo-order-failed": "فشل إرجاع طلب إيكو إلى العميل",
+  "order-date": "تاريخ الطلب",
+  "echo-order-number": "رقم طلب إيكو"
 }

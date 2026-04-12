@@ -427,5 +427,9 @@
   "echo-order-updated-successfully": "Echo order updated successfully",
   "echo-order-update-failed": "Echo order update failed",
   "back-to-customer": "Back to Customer",
-  "order-date": "Order Date"
+  "back-echo-order-to-customer": "Back Echo Order To Customer",
+  "back-echo-order-success": "Echo order sent back to customer successfully",
+  "back-echo-order-failed": "Failed to send echo order back to customer",
+  "order-date": "Order Date",
+  "echo-order-number": "Echo Order Number"
 }
