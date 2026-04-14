@@ -433,5 +433,7 @@
   "back-echo-order-success": "تم إرجاع طلب إيكو إلى العميل بنجاح",
   "back-echo-order-failed": "فشل إرجاع طلب إيكو إلى العميل",
   "order-date": "تاريخ الطلب",
-  "echo-order-number": "رقم طلب إيكو"
+  "echo-order-number": "رقم طلب إيكو",
+  "version-expired": "انتهت صلاحية الإصدار",
+  "version-expired-message": "إصدار التطبيق الخاص بك لم يعد مدعوماً. يرجى التحديث إلى أحدث إصدار للمتابعة."
 }

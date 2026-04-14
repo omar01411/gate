@@ -431,5 +431,7 @@
   "back-echo-order-success": "Echo order sent back to customer successfully",
   "back-echo-order-failed": "Failed to send echo order back to customer",
   "order-date": "Order Date",
-  "echo-order-number": "Echo Order Number"
+  "echo-order-number": "Echo Order Number",
+  "version-expired": "Version Expired",
+  "version-expired-message": "Your app version is no longer supported. Please update to the latest version to continue."
 }
