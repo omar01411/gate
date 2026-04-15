@@ -406,6 +406,7 @@
   "save-template": "Save Template",
   "select-customer": "Select Customer",
   "keep-current-customer": "Keep Current Customer",
+  "loading": "Loading...",
   "select-ship-to": "Select Ship To Address",
   "skip": "Skip",
   "no-results": "No results found",
