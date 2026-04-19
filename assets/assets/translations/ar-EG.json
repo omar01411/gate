@@ -455,5 +455,6 @@
   "no-recent-orders": "لا توجد طلبات حديثة",
   "no-recent-echo-orders": "لا توجد طلبات إيكو حديثة",
   "max-weekly-qty": "الحد الأقصى الأسبوعي",
-  "max-monthly-qty": "الحد الأقصى الشهري"
+  "max-monthly-qty": "الحد الأقصى الشهري",
+  "date-order-entered": "تاريخ إدخال الطلب"
 }

@@ -453,5 +453,6 @@
   "no-recent-orders": "No recent orders",
   "no-recent-echo-orders": "No recent echo orders",
   "max-weekly-qty": "Max Weekly Qty",
-  "max-monthly-qty": "Max Monthly Qty"
+  "max-monthly-qty": "Max Monthly Qty",
+  "date-order-entered": "Date Order Entered"
 }
