@@ -381,7 +381,7 @@
   "logout_confirm_message": "هل أنت متأكد أنك تريد تسجيل الخروج؟",
   "search_customer": "ابحث عن العميل",
   "press-back-again-to-exit": "اضغط مرة أخرى للخروج",
-  "gate": "Gate",
+  "gate": "الجيت",
   "visits": "الزيارات",
   "my_visits": "زياراتي",
   "visit-id": "رقم الزيارة",
@@ -409,7 +409,6 @@
   "save-template": "حفظ النموذج",
   "select-customer": "اختر العميل",
   "keep-current-customer": "الاحتفاظ بالعميل الحالي",
-  "loading": "جار التحميل...",
   "select-ship-to": "اختر عنوان الشحن",
   "skip": "تخطي",
   "no-results": "لا توجد نتائج",
@@ -454,5 +453,7 @@
   "coming-soon-description": "هذه الميزة قيد التطوير وستكون متاحة قريباً.",
   "welcome": "مرحباً",
   "no-recent-orders": "لا توجد طلبات حديثة",
-  "no-recent-echo-orders": "لا توجد طلبات إيكو حديثة"
+  "no-recent-echo-orders": "لا توجد طلبات إيكو حديثة",
+  "max-weekly-qty": "الحد الأقصى الأسبوعي",
+  "max-monthly-qty": "الحد الأقصى الشهري"
 }

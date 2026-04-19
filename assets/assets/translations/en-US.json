@@ -407,7 +407,6 @@
   "save-template": "Save Template",
   "select-customer": "Select Customer",
   "keep-current-customer": "Keep Current Customer",
-  "loading": "Loading...",
   "select-ship-to": "Select Ship To Address",
   "skip": "Skip",
   "no-results": "No results found",
@@ -452,5 +451,7 @@
   "coming-soon-description": "This feature is under development and will be available soon.",
   "welcome": "Welcome",
   "no-recent-orders": "No recent orders",
-  "no-recent-echo-orders": "No recent echo orders"
+  "no-recent-echo-orders": "No recent echo orders",
+  "max-weekly-qty": "Max Weekly Qty",
+  "max-monthly-qty": "Max Monthly Qty"
 }
