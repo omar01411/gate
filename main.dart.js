@@ -12600,7 +12600,7 @@ j=t.z
 s=7
 return A.m(n.hL($.fz,A.fR(A.aa(["Operation","Get AttachmentID","User",$.ej],k,j)),A.ft(A.aa(["Sp_Name","APIGateOperation"],k,j)),j),$async$aIo)
 case 7:m=b
-if(m.c===200&&J.d(J.a4(m.a,"State"),0)){k=A.cR(J.a4(J.a4(J.a4(m.a,"List0"),0),"AttachmentID"))
+if(m.c===200&&J.d(J.a4(m.a,"State"),0)){k=A.cR(J.a4(J.a4(J.a4(m.a,"List1"),0),"AttachmentID"))
 q=k
 s=1
 break}else{A.bD("Error When Call getAttachemntID Api ",0)
