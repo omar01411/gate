@@ -459,5 +459,7 @@
   "max-monthly-qty": "Max Monthly Qty",
   "date-order-entered": "Date Order Entered",
   "order-sent-cs-success": "Order sent to customer service successfully",
-  "order-sent-cs-failed": "Failed to send order to customer service"
+  "order-sent-cs-failed": "Failed to send order to customer service",
+  "send": "Send",
+  "payment-sent": "Payment sent successfully"
 }

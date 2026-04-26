@@ -461,5 +461,7 @@
   "max-monthly-qty": "الحد الأقصى الشهري",
   "date-order-entered": "تاريخ إدخال الطلب",
   "order-sent-cs-success": "تم إرسال الطلب إلى خدمة العملاء بنجاح",
-  "order-sent-cs-failed": "فشل إرسال الطلب إلى خدمة العملاء"
+  "order-sent-cs-failed": "فشل إرسال الطلب إلى خدمة العملاء",
+  "send": "إرسال",
+  "payment-sent": "تم إرسال الدفع بنجاح"
 }
