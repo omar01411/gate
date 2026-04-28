@@ -467,5 +467,13 @@
   "order-sent-cs-success": "Order sent to customer service successfully",
   "order-sent-cs-failed": "Failed to send order to customer service",
   "send": "Send",
-  "payment-sent": "Payment sent successfully"
+  "payment-sent": "Payment sent successfully",
+  "notifications": "Notifications",
+  "no-notifications": "No notifications yet",
+  "notification-order": "Order",
+  "notification-echo-order": "Echo Order",
+  "notification-type-g": "Gate Order",
+  "notification-type-e": "Echo Order",
+  "notification-type-n": "Notice",
+  "tap-to-view": "Tap to view"
 }

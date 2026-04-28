@@ -469,5 +469,14 @@
   "order-sent-cs-success": "تم إرسال الطلب إلى خدمة العملاء بنجاح",
   "order-sent-cs-failed": "فشل إرسال الطلب إلى خدمة العملاء",
   "send": "إرسال",
-  "payment-sent": "تم إرسال الدفع بنجاح"
+  "payment-sent": "تم إرسال الدفع بنجاح",
+  "notifications": "الإشعارات",
+  "no-notifications": "لا توجد إشعارات بعد",
+  "notification-order": "طلب",
+  "notification-echo-order": "طلب مرتجع",
+  "notification-type-g": "طلب بوابة",
+  "notification-type-e": "طلب مرتجع",
+  "notification-type-n": "إشعار",
+  "tap-to-view": "اضغط للعرض"
+}
 }
