@@ -11188,7 +11188,7 @@ return r},
 OX:function OX(){var _=this
 _.f=_.e=_.d=_.c=_.b=_.a=null},
 fj(a){var s=$.a_D(),r=$.bNu
-a.O(0,A.a5(["PlatForm",s,"WebVersion","1","AndroidVersion","5","IosVersion","5","FireBaseToken",r==null?"":r,"DatabaseIP","45.32.255.109","DatabaseName","Gate"],t.N,t.z))
+a.O(0,A.a5(["PlatForm",s,"AppVersionWeb","1","AndroidVersion","5","IOSVersion","5","FireBaseToken",r==null?"":r,"DatabaseIP","45.32.255.109","DatabaseName","Gate"],t.N,t.z))
 return a},
 aEf:function aEf(){},
 K6:function K6(){},
