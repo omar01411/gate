@@ -12527,7 +12527,7 @@ _.dy=a1
 _.fr=a2
 _.fx=a3
 _.fy=a4
-_.k1=a5},
+_.go=a5},
 nV:function nV(){var _=this
 _.k2=_.k1=_.id=_.go=_.fy=_.fx=_.fr=_.dy=_.dx=_.db=_.cy=_.cx=_.CW=_.ch=_.ay=_.ax=_.at=_.as=_.Q=_.z=_.y=_.x=_.w=_.r=_.f=_.e=_.d=_.c=_.b=_.a=null
 _.bH=_.c1=_.aE=_.bn=_.av=_.a7=_.W=_.aa=_.t=_.aG=_.b9=_.y1=_.x2=_.x1=_.to=_.ry=_.rx=_.RG=_.R8=_.p4=_.p3=_.p2=_.p1=_.ok=_.k4=_.k3=null},
@@ -78146,10 +78146,10 @@ a2=a6.h(a7,"ItemType")
 a3=A.ii(a6.h(a7,"OriginalOrderedQuantity"))
 if(a3==null)a3=null
 a4=a6.h(a7,"SellingUnitOfMeasure")
-A.ii(a6.h(a7,"LineAmountTransaction"))
-A.ii(a6.h(a7,"LineTax"))
-a5=A.ii(a6.h(a7,"LineFinalAmountTransaction"))
+a5=A.ii(a6.h(a7,"LineAmountTransaction"))
 if(a5==null)a5=null
+A.ii(a6.h(a7,"LineTax"))
+A.ii(a6.h(a7,"LineFinalAmountTransaction"))
 a6.h(a7,"OrginalLineNumber")
 return new A.lC(s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5)},
 $S:421}
@@ -79125,7 +79125,7 @@ n=a9.aG
 m=a9.t
 l=this.a?a8:a5
 k=a9.p3
-j=a9.k1
+j=a9.fx
 i=a9.av
 h=a9.aE
 g=a9.c1
@@ -82066,7 +82066,7 @@ s=a.x
 if(s==null)s=a.fy
 r=a.z
 q=r!=null?r*o:p
-return A.pA(a.k1,a.at,p,p,p,a.ax,a.y,p,a.r,p,p,p,r,a.ch,!1,a.CW,!1,!1,a.Q,a.as,a.dx,a.dy,a.e,a.d,a.fr,a.cx,p,p,p,p,p,a.db,a.w,p,a.cy,a.f,p,o,a.ay,p,s,q)},
+return A.pA(a.go,a.at,p,p,p,a.ax,a.y,p,a.r,p,p,p,r,a.ch,!1,a.CW,!1,!1,a.Q,a.as,a.dx,a.dy,a.e,a.d,a.fr,a.cx,p,p,p,p,p,a.db,a.w,p,a.cy,a.f,p,o,a.ay,p,s,q)},
 $S:461}
 A.bc5.prototype={
 $1(a){var s=this.a
