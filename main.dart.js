@@ -11188,7 +11188,7 @@ return r},
 Pg:function Pg(){var _=this
 _.f=_.e=_.d=_.c=_.b=_.a=null},
 f7(a){var s=$.a0a(),r=$.bPh
-a.O(0,A.a6(["PlatForm",s,"AppVersionWeb","1","AndroidVersion","5","IOSVersion","5","FireBaseToken",r==null?"":r,"DatabaseIP","45.32.255.109","DatabaseName","Gate"],t.N,t.z))
+a.O(0,A.a6(["PlatForm",s,"AppVersionWeb","1","AndroidVersion","10","IOSVersion","5","FireBaseToken",r==null?"":r,"DatabaseIP","45.32.255.109","DatabaseName","Gate"],t.N,t.z))
 return a},
 aF0:function aF0(){},
 Kq:function Kq(){},
@@ -178995,8 +178995,9 @@ s($,"cfI","mb",()=>new A.aNq(A.bEH("database1.db")))
 s($,"cf1","bIq",()=>new A.aF0())
 r($,"cey","k",()=>A.bEK(null,t.YM))
 r($,"cfx","a0a",()=>A.cd9())
-r($,"cfw","bCI",()=>{if($.a0a()==="web")var q="1"
-else q="5"
+r($,"cfw","bCI",()=>{var q=$.a0a()
+if(q==="web")q="1"
+else q=q==="android"?"10":"5"
 return q})
 s($,"cgJ","bCM",()=>new A.aaW())
 s($,"cgU","bCQ",()=>new A.aTO())
