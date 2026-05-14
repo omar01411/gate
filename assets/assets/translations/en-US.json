@@ -475,5 +475,18 @@
   "notification-type-g": "Gate Order",
   "notification-type-e": "Echo Order",
   "notification-type-n": "Notice",
-  "tap-to-view": "Tap to view"
+  "tap-to-view": "Tap to view",
+  "qty-details": "Qty Details",
+  "monthly-qty": "Monthly Qty",
+  "monthly-shipped": "Monthly Shipped",
+  "round-qty": "Round Qty",
+  "round-1": "Round 1",
+  "round-2": "Round 2",
+  "round-3": "Round 3",
+  "shipped": "Shipped",
+  "order-gate": "Order Gate",
+  "erp-order": "ERP Order",
+  "qty": "Qty",
+  "max-monthly-qty": "Max Monthly Qty",
+  "max-weekly-qty": "Max Weekly Qty"
 }

@@ -477,5 +477,18 @@
   "notification-type-g": "طلب بوابة",
   "notification-type-e": "طلب مرتجع",
   "notification-type-n": "إشعار",
-  "tap-to-view": "اضغط للعرض"
+  "tap-to-view": "اضغط للعرض",
+  "qty-details": "تفاصيل الكمية",
+  "monthly-qty": "الكمية الشهرية",
+  "monthly-shipped": "الشحن الشهري",
+  "round-qty": "كمية الجولة",
+  "round-1": "جولة 1",
+  "round-2": "جولة 2",
+  "round-3": "جولة 3",
+  "shipped": "تم الشحن",
+  "order-gate": "طلب البوابة",
+  "erp-order": "طلب ERP",
+  "qty": "الكمية",
+  "max-monthly-qty": "الحد الأقصى الشهري",
+  "max-weekly-qty": "الحد الأقصى الأسبوعي"
 }
