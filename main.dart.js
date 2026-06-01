@@ -11217,7 +11217,7 @@ return r},
 PK:function PK(){var _=this
 _.f=_.e=_.d=_.c=_.b=_.a=null},
 f_(a){var s=$.a0Q(),r=$.bSs
-a.P(0,A.a6(["PlatForm",s,"AppVersionWeb","1","AndroidVersion","10","IOSVersion","5","FireBaseToken",r==null?"":r,"DatabaseIP","45.32.255.109","DatabaseName","Gate"],t.N,t.z))
+a.P(0,A.a6(["PlatForm",s,"AppVersionWeb","31","AndroidVersion","31","IOSVersion","31","FireBaseToken",r==null?"":r,"DatabaseIP","45.32.255.109","DatabaseName","Gate"],t.N,t.z))
 return a},
 aG9:function aG9(){},
 KR:function KR(){},
@@ -181659,10 +181659,8 @@ s($,"cj7","lf",()=>new A.aOA(A.bHE("database1.db")))
 s($,"cis","bLr",()=>new A.aG9())
 r($,"chY","k",()=>A.bHH(null,t.YM))
 r($,"ciY","a0Q",()=>A.cgx())
-r($,"ciX","bFJ",()=>{var q=$.a0Q()
-if(q==="web")q="1"
-else q=q==="android"?"10":"5"
-return q})
+r($,"ciX","bFJ",()=>{$.a0Q()
+return"31"})
 s($,"ck8","bFM",()=>new A.abF())
 s($,"ckj","bFQ",()=>new A.aV9())
 s($,"chQ","Ca",()=>A.c52())
