@@ -496,5 +496,10 @@
   "erp-order": "طلب ERP",
   "qty": "الكمية",
   "max-monthly-qty": "الحد الأقصى الشهري",
-  "max-weekly-qty": "الحد الأقصى الأسبوعي"
+  "max-weekly-qty": "الحد الأقصى الأسبوعي",
+  "open-orders": "الطلبات المفتوحة",
+  "remaining-orders": "الطلبات المتبقية",
+  "monthly-remaining": "المتبقي الشهري",
+  "round": "الجولة",
+  "round-remaining": "المتبقي من الجولة"
 }

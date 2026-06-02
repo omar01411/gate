@@ -494,5 +494,10 @@
   "erp-order": "ERP Order",
   "qty": "Qty",
   "max-monthly-qty": "Max Monthly Qty",
-  "max-weekly-qty": "Max Weekly Qty"
+  "max-weekly-qty": "Max Weekly Qty",
+  "open-orders": "Open Orders",
+  "remaining-orders": "Remaining Orders",
+  "monthly-remaining": "Monthly Remaining",
+  "round": "Round",
+  "round-remaining": "Round Remaining"
 }
